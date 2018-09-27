@@ -74,8 +74,8 @@ navs:
     label: Archives
 
   -
-    href: /link.html
-    label: Link
+#    href: /link.html
+#    label: Link
 
   -
     href: /about.html
